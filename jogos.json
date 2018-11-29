@@ -1,0 +1,784 @@
+[
+	{
+		"id": 1,
+		"titulo": "Uncharted 4",
+		"sinopse": "Uncharted 4: A Thief’s End, novo jogo da popular franquia da Naughty Dog. O título, primeiro game inédito da saga para o PS4, marca o retorno de Nathan Drake em uma aventura repleta de reviravoltas, gráficos encantadores e um modo multiplayer que empolga e surpreende. Uncharted 4 chega ao Brasil totalmente em português. Tanto as legendas quanto o áudio do jogo são traduzidos para a nossa língua. Contudo, o que poderia ser excelente, acaba sendo o único ponto negativo do game. Isso porque algumas vozes não encaixaram. O maior exemplo é a de Elena. O timbre não compactua com algumas reações da personagem, fazendo com que a dublagem seja vazia em muitos momentos. O mesmo problema acontece com alguns personagens coadjuvantes, com expressões nada empolgadas. Uncharted 4 fez valer a longa espera e desponta facilmente como melhor game já lançado para o PlayStation 4. O jogo traz a boa e velha mecânica que consagrou a série, com tímidas evoluções que chegam para somar. Os gráficos encantam pela qualidade e até o modo multplayer, que já foi duramente criticado em outras versões, torna-se uma excelente opção de jogo. Uncharted 4 é um item obrigatório para quem possui um PS4 e o motivo que faltava para se adquirir o console.",
+		"img": "uncharted.png",
+		"classificacao": "3",
+		"genero": "Ação",
+		"ano": "2016",
+		"plataforma": "PS4",
+		"players": "1 player",
+		"desenvolvedora": "Naughty Dog"
+	},
+	{
+		"id":2,
+		"titulo": "Minecraft",
+		"sinopse": "Minecraft é um jogo eletrônico tipo sandbox e independente de mundo aberto que permite a construção usando blocos (cubos) dos quais o mundo é feito. Foi criado por Markus 'Notch' Persson.O desenvolvimento de Minecraft começou por volta do dia 10 de maio de 2009.A jogabilidade foi baseada nos jogos Dwarf Fortress, Dungeon Keeper e Infiniminer. Foi vencedor do prêmio VGA 2011 de jogos independentes. Minecraft é um jogo basicamente feito de blocos, tendo as paisagens e a maioria de seus objetos compostos por eles, e permitindo que estes sejam removidos e recolocados em outros lugares para criar construções, empilhando-os. Além da mecânica de mineração e coleta de recursos para construção, há no jogo mistura de sobrevivência, e exploração.",
+		"img": "mine.png",
+		"classificacao": "3",
+		"genero":"Ação",
+		"ano":"2011",
+		"plataforma":"PC",
+		"players":"1 player ou diversos",
+		"desenvolvedora":"mojang"
+	},
+
+	{
+		"id":3,
+		"titulo": "The witcher 3",
+		"sinopse": "The Witcher 3: Wild Hunt (em polonês: Wiedźmin 3: Dziki Gon) é um jogo eletrônico de ação do subgenero RPG desenvolvido pela CD Projekt RED e lançado no dia 19 de maio de 2015[1] para as plataformas Microsoft Windows, PlayStation 4 e Xbox One, sendo o terceiro título da série de jogos The Witcher. Ele sucede The Witcher (2007) e The Witcher 2: Assassins of Kings (2011), que foram baseados na série de livros de fantasia Wiedźmin, do escritor polonês Andrzej Sapkowski. Ambientado em um gigantesco cenário medieval que dá liberdade total ao jogador, o game, que possui uma jogabilidade não linear e é jogado através de uma perspectiva em terceira pessoa, tem o lendário bruxo Geralt de Rívia como seu protagonista, o qual inicia uma longa jornada pelos Reinos do Norte.",
+		"img": "witcher.png",
+		"classificacao": "4",
+		"genero":"Ação",
+		"ano":"2015",
+		"plataforma":"PlayStation 4, xbox one, microsoft windows",
+		"players":"1 player",
+		"desenvolvedora":"CD Projekt Red"
+	},
+
+	{
+		"id":4,
+		"titulo": "GTA V",
+		"sinopse": " descricao descricao descricao descricao descricao descricao",
+		"img": "gta.png",
+		"classificacao": "5",
+		"genero":"Ação",
+		"ano":"2013",
+		"plataforma":"PlayStation 4, PlayStation 3, Xbox One, Xbox 360, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Rokstar Games"
+	},
+
+		{
+		"id":5,
+		"titulo": "Far Cry 5",
+		"sinopse": " Far Cry 5 é um jogo eletrônico de tiro em primeira pessoa de ação-aventura ambientado em um mundo aberto. Foi desenvolvido pela Ubisoft Montreal e publicado pela Ubisoft para Microsoft Windows, PlayStation 4 e Xbox One em 27 de março de 2018. É o décimo titulo da serie Far Cry e o quinto jogo principal. Em Far Cry 5 o jogador assume o papel de um assistente de xerife que foi enviado ao condado fictício de Hope County, em Montana, para prender Joseph Seed (chamado de o pai por seus seguidores, os edenetes). Seed é um pregador radical que acredita que foi escolhido por Deus para proteger o povo de Hope County de um colapso inevitavel. Ele é o criador e líder da seita cristã projeto do portao do eden, um culto apocalíptico religioso e militar.",
+		"img": "far5.png",
+		"classificacao": "4",
+		"genero":"Ação",
+		"ano":"2018",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Ubisoft"
+	},
+
+			{
+		"id":777,
+		"titulo": "Horizon Zero Dawn",
+		"sinopse": " Horizon é um jogo eletrônico de tiro em primeira pessoa de ação-aventura ambientado em um mundo aberto. Foi desenvolvido pela Ubisoft Montreal e publicado pela Ubisoft para Microsoft Windows, PlayStation 4 e Xbox One em 27 de março de 2018. É o décimo titulo da serie Far Cry e o quinto jogo principal. Em Far Cry 5 o jogador assume o papel de um assistente de xerife que foi enviado ao condado fictício de Hope County, em Montana, para prender Joseph Seed (chamado de o pai por seus seguidores, os edenetes). Seed é um pregador radical que acredita que foi escolhido por Deus para proteger o povo de Hope County de um colapso inevitavel. Ele é o criador e líder da seita cristã projeto do portao do eden, um culto apocalíptico religioso e militar.",
+		"img": "horizon.png",
+		"classificacao": "4",
+		"genero":"Ação",
+		"ano":"2018",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Ubisoft"
+	},
+
+
+		{
+		"id":6,
+		"titulo": "Watch Dogs 2",
+		"sinopse": " Watch Dogs 2 (estilizado como WATCH_DOGS 2) é um jogo eletrônico desenvolvido pela Ubisoft Montreal que sucede o popular Watch Dogs, de 2014. Lançado em 15 de novembro de 2016 para videogames e no dia 29 do mesmo mês para computadores, a continuação se passa no mesmo universo fictício de seu antecessor, mas agora explorando o personagem Marcus Holloway como protagonista e ambientado na região da baia de São Francisco e a região do Vale do Silício, lar de empresas como Facebook, Google e Twitter, continuando assim a contar sua história sobre vida digital, excesso de compartilhamento de dados pessoais e espionagem estabelecida no primeiro jogo da franquia.",
+		"img": "wd2.jpg",
+		"classificacao": "3",
+		"genero":"Ação",
+		"ano":"2016",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Ubisoft"
+	},
+
+		{
+		"id":7,
+		"titulo": "Tomb Raider",
+		"sinopse": " Tomb Raider é um videojogo de ação-aventura, décimo título da série Tomb Raider e o quinto produzido pela Crystal Dynamics. Foi publicado pela Square Enix em 5 de Março de 2013 para Microsoft Windows, PlayStation 3e Xbox 360 . O primeiro de uma nova continuação, o jogo está definido para não fornecer nenhuma correlação com os lançamentos anteriores da série, sendo um reinicio que dá ênfase às origens da culturalmente influente personagem principal, Lara Croft. A história decorre em Yamatai, uma ilha onde a protagonista e os seus amigos naufragaram. Lara tem que salvá-los, além de ter que lutar contra os habitantes e os perigos naturais da ilha. A jogabilidade foca-se mais na sobrevivência e na ação, embora também se possa usar a exploração para conhecer Yamatai, revisitando locais, ou tentar completar missões secundárias, como as tumbas de desafio opcionais.",
+		"img": "tb.jpg",
+		"classificacao": "4",
+		"genero":"Ação",
+		"ano":"2013",
+		"plataforma":"PlayStation 4, PlayStation 3, Xbox 360, Xbox One, MAIS",
+		"players":"1 player",
+		"desenvolvedora":"Crystal Dynamics"
+	},
+
+		{
+		"id":8,
+		"titulo": "Dark Souls 3",
+		"sinopse": " É um jogo eletrônico de ação ambientado em um mundo aberto. Foi desenvolvido e publicado para PlayStation 3, Xbox 360 e Microsoft Windows (PC) pela From Software no Japão e pela Namco Bandai Games internacionalmente.[5] Antes referido como Project Dark, é o sucessor espiritual de Demon's Souls, o jogo anterior da From Software. Dark Souls é conhecido pelos ótimos gráficos, jogabilidade e pelo grau de dificuldade em que o jogador enfrenta.",
+		"img": "ds.jpg",
+		"classificacao": "2",
+		"genero":"Ação",
+		"ano":"2011",
+		"plataforma":"Nintendo Switch, PlayStation 4, PlayStation 3, Xbox 360, Microsoft Windows, Xbox One",
+		"players":"1 player",
+		"desenvolvedora":"From Software"
+	},
+
+		{
+		"id":9,
+		"titulo": "Final Fantasy XIV",
+		"sinopse": " Final Final Fantasy XIV Online, é um jogo eletrônico MMORPG desenvolvido pela Square Enix exclusivamente para Microsoft Windows. É o décimo quarto jogo principal da série Final Fantasy e o segundo MMORPG da franquia após Final Fantasy XI. Ele se passa em Eorzea e os jogadores assumem o controle de um avatar customizável enquanto exploram o mundo, sendo pegos tanto na invasão do Império Garleano quanto na ameaça dos Primals, divindades das tribos locais. Eventualmente eles se envolvem em um complô de um legato garleano para destruir os Primals ao colidir um dos satélites naturais do planeta com Eorzea.",
+		"img": "ff.jpg",
+		"classificacao": "4",
+		"genero":"Ação",
+		"ano":"2010",
+		"plataforma":"PC",
+		"players":"1 player",
+		"desenvolvedora":"Square Enix"
+	},
+
+		{
+		"id":51,
+		"titulo": "NBA 2k18",
+		"sinopse": "NBA 2K18 é um videojogo de basquetebol em desenvolvimento pela Visual Concepts e publicado pela 2K Sports. É a 19ª edição da série NBA 2K e o sucessor de NBA 2K17. Para Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 3, Xbox One e Xbox 360. Kyrie Irving, que foi do Cleveland Cavaliers e hoje está no Boston Celtics, serve como atleta da capa da edição normal do jogo, enquanto Shaquille O'Neal é o atleta da capa para a edição especial. NBA 2K18, como os jogos anteriores da série, é baseado em basquetebol, mais especificamente, ele simula a experiência da National Basketball Association (NBA).",
+		"img": "nba18.jpg",
+		"classificacao": "4",
+		"genero":"Esportes",
+		"ano":"2017",
+		"plataforma":"PlayStation 4, Xbox One, Nintendo Switch, Xbox 360, PlayStation 3, Android, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Visual Concepts"
+	},
+
+		{
+		"id":52,
+		"titulo": "NBA Live 18",
+		"sinopse": " O modo Ultimate Team, marca registrada dos jogos de esportes da EA, também aparece em NBA Live 18 como uma opção para os jogadores que buscam uma experiência online recheada. Apesar de interessante, a modalidade não é tão complexa e completa como visto em FIFA 18 e Madden 18.",
+		"img": "nbalive.jpg",
+		"classificacao": "3",
+		"genero":"Esportes",
+		"ano":"2017",
+		"plataforma":"PlayStation 4, Xbox One",
+		"players":"1 +",
+		"desenvolvedora":"Eletronic Arts"
+	},
+
+
+		{
+		"id":53,
+		"titulo": "The Golf Club 2",
+		"sinopse": " Aumente a fama e fortuna no maior e mais dinâmico jogo de golfe já criado. Reúna-se e junte-se a Sociedades on-line com amigos, participe de torneios e ganhe dinheiro para subir na hierarquia da maior comunidade de jogos de golfe",
+		"img": "tgc.jpg",
+		"classificacao": "2",
+		"genero":"Esportes",
+		"ano":"2017",
+		"plataforma":"PS4, Xbox One e Pc",
+		"players":"1 +",
+		"desenvolvedora":"Maximum Games"
+	},
+
+		{
+		"id":54,
+		"titulo": "NHL 16",
+		"sinopse": " O NHL 16 é um jogo de simulação de hockey no gelo com competições que usam times da NHL. Os usuários podem jogar com seu time favorito, jogador ou manager (GM) em vários modos como Play Now (Jogar agora), Hockey Ultimate Team e Quick Modes (Modos rápidos).",
+		"img": "nhl.jpg",
+		"classificacao": "3",
+		"genero":"Esportes",
+		"ano":"2015",
+		"plataforma":"PlayStation 4, Xbox One, Xbox 360, PlayStation 3",
+		"players":"1 +",
+		"desenvolvedora":"EA Canada"
+	},
+
+		{
+		"id":55,
+		"titulo": "Virtua Tennis 4",
+		"sinopse": "Virtua Tennis 4 (Sega Professional Tennis: Power Smash 4 no Japan) é o sexto jogo da série Virtua Tennis, que inclui o Virtua Tennis, o Virtua Tennis 2, o Virtua Tennis 3 mais dois especiais, o Virtua Tennis: World Tour e o Virtua Tennis 2009. Este deverá ser o primeiro jogo de tênis a usar o Kinect, o PlayStation Move, o Wii Remote e a tecnologia 3D.",
+		"img": "vt.jpg",
+		"classificacao": "4",
+		"genero":"Esportes",
+		"ano":"2011",
+		"plataforma":"PlayStation 3, Xbox 360, PlayStation Vita, Wii, Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Sega"
+	},
+
+			{
+		"id":56,
+		"titulo": "Steep",
+		"sinopse": " Steep (pronuncia-se stip) é um game de esportes radicais em mundo aberto produzido pela Ubisoft Annecy e publicado pela Ubisoft para Microsoft Windows, PlayStation 4 e Xbox One em 2 de dezembro de 2016. Um port para o Nintendo Switch também foi confirmado. O jogo dá grande enfase ao multijogador online, focando-se na competição entre vários jogadores em esportes de inverno (ski, snowboard, wingsuit e parapente) na região dos Alpes e do Alasca. Houve dois periodos beta durante o mês de novembro de 2016.",
+		"img": "steep.jpg",
+		"classificacao": "4",
+		"genero":"Esportes",
+		"ano":"2016",
+		"plataforma":"PlayStation 4, Xbox One, Nintendo Switch, IBM PC compatível, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Ubisoft"
+	},
+
+			{
+		"id":57,
+		"titulo": "Mario & Sonic at the Rio 2016 Olympic Games",
+		"sinopse": " Mario & Sonic at the Rio 2016 Olympic Games é um jogo eletrônico da série Mario & Sonic at the Olympic Games, lançado para o Nintendo 3DS em fevereiro de 2016, no Japão, em março de 2016 na América do Norte, e em abril de 2016 para a Europa e Austrália, e para o Wii U em todo o mundo em junho de 2016.[1] O jogo foi desenvolvido pela Sega Sports R&D, com o auxílio da Arzest e da Spike Chunsoft, e publicado pela Nintendo. É o quinto jogo da série Mario & Sonic.",
+		"img": "sonic.jpg",
+		"classificacao": "4",
+		"genero":"Esportes",
+		"ano":"2016",
+		"plataforma":"Wii U, Nintendo 3DS, Arcade",
+		"players":"1 +",
+		"desenvolvedora":"Smilebit"
+	},
+
+			{
+		"id":58,
+		"titulo": "Madden FNL 18",
+		"sinopse": "O Madden NFL 18 é um videojogo de futebol americano baseado na National Football League, desenvolvido e publicado pela EA Sports para a PlayStation 4 e Xbox One. A 29ª edição da série Madden NFL, o jogo apresenta o quarterback do New England Patriots Tom Brady na capa.",
+		"img": "madden.jpg",
+		"classificacao": "2",
+		"genero":"Esportes",
+		"ano":"2017",
+		"plataforma":"PlayStation 4, Xbox One",
+		"players":"1 +",
+		"desenvolvedora":"Ea Sports"
+	},
+
+			{
+		"id":59,
+		"titulo": "PES 2018",
+		"sinopse": " Pro Evolution Soccer 2018 (popularmente conhecido pela sua abreviação PES 2018 e por Winning Eleven 2018 na Ásia), é um jogo de futebol desenvolvido pela PES Production e publicado pela Konami para PlayStation 4, Xbox One, Xbox 360, Playstation 3 e PC que pertence à série Pro Evolution Soccer.",
+		"img": "pes.jpg",
+		"classificacao": "4",
+		"genero":"Esportes",
+		"ano":"2017",
+		"plataforma":"Xbox 360, PS3, Xbox One, PS4 e PC",
+		"players":"1 +",
+		"desenvolvedora":"Konami"
+	},
+
+			{
+		"id":60,
+		"titulo": "FIFA 18",
+		"sinopse": "FIFA 18 é um jogo eletrônico de futebol desenvolvido e publicado pela EA Sports, que foi lançado mundialmente em 1 de Novembro de 2017. Este é o vigésimo quinto título da série FIFA e o segundo a usar o mecanismo de jogo da Frostbite para Xbox One, PS4 e PC. Assim como seu antecessor, o jogo destaca um modo de campanha para um jogador intitulado A Jornada (semelhante ao modo MyCareer na série NBA 2K), onde os jogadores assumem a posição de Alex Hunter, um jovem futebolista tentando deixar sua marca na Premier League.[1] O jogador será capaz de selecionar qualquer um dos 20 clubes da Premier League para jogar no início da temporada. O modo de história também apresenta uma roda de diálogo onde as decisões tomadas durante o jogo interferem diretamente na reação dos outros personagens da história.",
+		"img": "fifa.jpg",
+		"classificacao": "4",
+		"genero":"Esportes",
+		"ano":"2017",
+		"plataforma":"PlayStation 4, Android, Nintendo Switch, Xbox One, PlayStation 3, Xbox 360, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Ea Sports"
+	},
+
+				{
+		"id":20,
+		"titulo": "Overwatch",
+		"sinopse": "Em Overwatch, você controla um de vários heróis em partidas competitivas de tiro em equipes de 6 pessoas. Lute por objetivos, derrote a outra equipe e alcance a vitória.Overwatch é a nova empreitada da poderosa Blizzard, empresa popularmente conhecida por produzir games de RPG e estratégia. A aposta no popular genero FPS deu certo, trazendo um título simples de se jogar e eficiente nos quesitos técnicos para o PC, Ps4 e Xbox One.Overwatch traz partidas multiplayers de dois times com seis personagens cada. Os objetivos em cada partida variam desde proteger uma carga até o seu ponto de destino, até tomar e defender determinados pontos do cenário, como o famoso modo Capture a Bandeira - tradicional entre os FPS.",
+		"img": "oi.jpeg",
+		"classificacao": "5",
+		"genero":"FPS",
+		"ano":"2017",
+		"plataforma":"PS4, Xbox One e Pc",
+		"players":"Multiplayer",
+		"desenvolvedora":"Blizzard Entertainment"
+	},
+
+					{
+		"id":21,
+		"titulo": "Counter Strike",
+		"sinopse": "Counter-Strike: Global Offensive (CS: GO) expandirá na jogabilidade de ação baseada em equipes na qual foi pioneiro quando foi lançado há 12 anos.CS: GO contém novos mapas, personagens e armas, além de conter versões atualizadas de conteúdos do CS clássico (como de_dust2). Além disso, CS: GO introduzirá novos modos de jogo, criação de partidas (matchmaking), placares de líderes e mais. Counter-Strike surpreendeu a indústria de jogos quando o improvável MOD virou o jogo de ação online para PC mais jogado no mundo quase imediatamente após seu lançamento em agosto de 1999, disse Doug Lombardi na Valve. Pelos últimos 12 anos, ele continuou sendo um dos jogos mais jogados no mundo, manteve destaque em torneios competitivos de jogos e a franquia vendeu mais de 26 milhões de cópias no mundo todo. CS: GO promete expandir na jogabilidade premiada de CS' e permitir seu acesso por jogadores não só no PC, mas também em consoles de última geração e no Mac.",
+		"img": "csgo.jpg",
+		"classificacao": "5",
+		"genero":"FPS",
+		"ano":"2012",
+		"plataforma":"PS4, PS3, Xbox One, Xbox 360 e Pc",
+		"players":"1 +",
+		"desenvolvedora":"Valve"
+	},
+
+					{
+		"id":22,
+		"titulo": "Call of Duty",
+		"sinopse": "Call of Duty, criado em 1999 e distribuído em 29 de outubro de 2003[1] é um jogo de tiro em primeira pessoa baseado em combates da Segunda Guerra Mundial. Este jogo é um simulador de guerra de infantaria, onde combina o uso de armas da Segunda Guerra Mundial. O jogo foi distribuído pela empresa Activision e desenvolvido pela Infinity Ward. É o primeiro jogo da série Call of Duty. Atualmente, é a franquia de jogos eletrônicos mais rentável da história, faturando com o seu penúltimo lançamento, Call of Duty: Ghosts, mais de US$ 1 bilhão em apenas 24 horas.",
+		"img": "cod.jpg",
+		"classificacao": "4",
+		"genero":"FPS",
+		"ano":"2003",
+		"plataforma":"PlayStation 3, Xbox 360, Telefone celular, Microsoft Windows, Mac OS Classic, N-Gage",
+		"players":"Multiplayer",
+		"desenvolvedora":"Activision"
+	},
+
+					{
+		"id":23,
+		"titulo": "Warface",
+		"ssinopse": "Warface é um jogo eletrônico on-line free-to-play (gratuito para jogar) de tiro em primeira pessoa desenvolvido pela Crytek e distribuído no Brasil pela Level Up! Games. O jogo é disponível na plataforma Windows, e foi produzido com o motor gráfico CryEngine 3. ele foi originalmente destinado para um lançamento na China. Em agosto de 2011, a Crytek anunciou que o jogo iria bater o record de vendas nos mercados ocidentais em 2012. Foi anunciado em julho de 2012, que a empresa Trion Worlds iria publicar o jogo nos Estados Unidos, Nova Zelândia, Turquia, Austrália e Europa. No Brasil, o Warface é distribuído pela Level Up! Games desde maio de 2013. Em agosto de 2012 foi feito um anúncio de que Warface poderia estar vindo para consoles como Xbox 360 e PlayStation 3 em um futuro próximo.] Em 28 de agosto de 2013, a Crytek anunciou que o Warface viria para Xbox 360 no início de 2014.",
+		"img": "warface.jpg",
+		"classificacao": "3",
+		"genero":"FPS",
+		"ano":"2013",
+		"plataforma":"Pc e Xbox 360",
+		"players":"Multiplayer",
+		"desenvolvedora":"Crytek"
+	},
+
+					{
+		"id":24,
+		"titulo": "Battlefield 4",
+		"sinopse": "Battlefield 4 (abreviado como BF4) é um jogo de tiro em primeira pessoa desenvolvido pela EA Digital Illusions CE (DICE) e publicado pela Electronic Arts. É o décimo terceiro título da série, sequência de Battlefield 3, e foi lançado entre outubro e novembro de 2013 para Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4 e Xbox One. Em Julho de 2012, Battlefield 4 foi anunciado não oficialmente, depois de ter sido publicitado que os clientes que fizessem a pré-reserva de Medal of Honor: Warfighter teriam acesso antecipado à beta de Battlefield 4. Battlefield 4 foi no geral bem recebido pela critica especializada, com os sites de criticas agregadas GameRankings e Metacritic dando à versão PC 85,39% e 85/100, à versão PlayStation 3 81,87% e 86/100, à versão PlayStation 4 85,00% e 87/100 e à versão Xbox 360 81,00% e 81/100, respectivamente.",
+		"img": "battlefield.jpg",
+		"classificacao": "4",
+		"genero":"FPS",
+		"ano":"2013",
+		"plataforma":"PlayStation 3, PlayStation 4, Xbox One, Xbox 360, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Eletronic Arts"
+	},
+
+					{
+		"id":25,
+		"titulo": "Rainbow Six Siege",
+		"sinopse": "Tom Clancy's Rainbow Six Siege é um videojogo do género first person shooter produzido pela Ubisoft Montreal. Foi anunciado pela Ubisoft a 9 de Junho de 2014 na Electronic Entertainment Expo 2014 onde foi muito aplaudido pela crítica. Foi lançado para Xbox One, PlayStation 4 e para Microsoft Windows em 1 de Dezembro de 2015. Siege usa o motor AnvilNext, propriedade da Ubisoft, e é considerado o sucessor de Tom Clancy's Rainbow 6: Patriots, que foi cancelado. Como os outros títulos da série, foca-se sobretudo no trabalho em equipe e realismo. No entanto, têm algumas diferenças para os outros jogos, baseando-se fortemente na cooperação entre os jogadores e na destruição de ambientes fechados. No entanto, Siege não tem nenhuma apenas os cenários campanha, apesar de oferecer o modo Cenários, onde o jogador pode aprender a utilizar os operadores, e oferece também o modo online. Os jogadores assumem o papel de um dos membros da equipe contra-terrorista Rainbow, que tem de enfrentar um novo inimigo chamado The White Masks, que estão a causar o caos por todo o mundo apesar de se desconhecer as suas reais intenções.",
+		"img": "rbw_six.jpg",
+		"classificacao": "3",
+		"genero":"FPS",
+		"ano":"2015",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows",
+		"players":"1 +",
+		"desenvolvedora":"Ubisoft"
+	},
+
+					{
+		"id":26,
+		"titulo": "Halo CE",
+		"ssinopse": "Halo: Combat Evolved (também conhecido como Halo: CE, Halo 1, ou simplesmente de Halo) é um jogo eletrônico de 2001 de ficção científica militar de tiro em primeira pessoa desenvolvido pela Bungie e publicado pela Microsoft Game Studios. O primeiro jogo da franquia Halo, foi lançado em 15 de novembro de 2001 como um título de lançamento exclusivo para o console Xbox, e é considerada a plataforma killer app. Mais de cinco milhões de cópias foram vendidas em todo o mundo até novembro de 2005. A Microsoft lançou versões do jogo para Windows e Mac OS X em 2003, e o ​​enredo envolvente foi adaptado e elaborado em uma série de romances e histórias em quadrinhos. O jogo foi posteriormente lançado como um Xbox Original para download em um Xbox 360.Halo se passa no século XXVI, onde o jogador assume o papel de Master Chief, um supersoldado ciberneticamente aprimorado. O jogador é acompanhado por Cortana, uma inteligência artificial que ocupa a interface neural de Master Chief. Os jogadores batalham com vários alienígenas à medida que tentam descobrir os segredos de Halo, um mundo artificial em forma de anel com o mesmo nome. O jogo foi elogiado por elementos tais como a sua história, a variedade de estratégias que os jogadores podem empregar e seu modo multiplayer, no entanto, seu level design repetitivo foi criticado por alguns avaliadores.",
+		"img": "halo.jpg",
+		"classificacao": "4",
+		"genero":"FPS",
+		"ano":"2001",
+		"plataforma":"Xbox, Xbox 360, Xbox One, Microsoft Windows, Mac OS Classic",
+		"players":"1 +",
+		"desenvolvedora":"Bungie"
+	},
+
+					{
+		"id":27,
+		"titulo": "Destiny",
+		"sinopse": "Destiny é um jogo eletrônico online de tiro em primeira pessoa, jogado num mundo aberto e persistente num ambiente mítico de ficção científica. Foi produzido pela Bungie e publicado pela Activision como parte de um acordo de publicação de dez anos entre as duas empresas. Destiny foi publicado a 9 de Setembro de 2014 para PlayStation 4, e Xbox One. Uma versão beta esteve aberta entre 10 e 20 de Julho de 2011 e teve a participação de mais de 1,6 milhões de jogadores. A história de Destiny decorre num período de setecentos anos no futuro, num ambiente pós-apocalíptico, num universo onde os humanos se espalharam e começaram a colonizar planetas no Sistema Solar. Um evento conhecido como o Colapso fez as colónias desaparecerem misteriosamente, pondo um fim à chamada Era Dourada, e colocando a humanidade muito perto da extinção. O jogador tem o papel de um dos Guardiões, os últimos defensores da humanidade, destinados a proteger a última cidade na Terra.",
+		"img": "destiny.jpeg",
+		"classificacao": "4",
+		"genero":"FPS",
+		"ano":"2014",
+		"plataforma":"PlayStation 3, PlayStation 4, Xbox One, Xbox 360, Android",
+		"players":"1 +",
+		"desenvolvedora":"Bungie"
+	},
+
+					{
+		"id":28,
+		"titulo": "Left 4 Dead",
+		"sinopse": "Left 4 Dead é um jogo multiplayer cooperativo de survival horror e tiro em primeira pessoa inicialmente desenvolvido pela Turtle Rock Studios que passou, no dia 10 de Janeiro de 2008, a fazer parte da corporação Valve. O jogo foi construído pelo Source Engine da Valve e está disponível para PC, Xbox 360 e Mac OS X. A Certain Affinity é a responsável pela versão do Xbox 360.[4] Left 4 Dead coloca à disposição quatro personagens principais (sendo que dois são controlados pela Inteligência Artificial do jogo no Xbox 360) contra as hordas de centenas de infectados. Estes sobreviventes vivem num ambiente de pandemia apocalíptico, onde terão de enfrentar hordas de infectados a quase todo momento, enquanto que, variavelmente, aparecem outros cinco chefes (infectados especiais) com habilidades especiais e únicas que poderão ser controlados pelos jogadores em alguns modos de jogo. O grande diferencial de Left 4 Dead é que o jogo obriga a cooperação em equipe, em que, para se manterem vivos, os sobreviventes tem de ajudar uns aos outros em pequenos atos de socorrismo cooperando e tornando assim a passagem dos capítulos mais fácil. Para o lado infectado, estes terão de cooperar para impedir os humanos de prosseguirem.",
+		"img": "left.jpg",
+		"classificacao": "2",
+		"genero":"FPS",
+		"ano":"2008",
+		"plataforma":"Xbox 360, Microsoft Windows, Mac OS Classic",
+		"players":"1 +",
+		"desenvolvedora":"Valve"
+	},
+
+	{
+		"id":29,
+		"titulo": "Bioshock",
+		"ssinopse": "BioShock é um jogo eletrônico de tiro em primeira pessoa produzido pela Irrational Games (na altura, com o nome 2K Boston) e distribuído pela 2K Games. Foi lançado para as plataformas Microsoft Windows e Xbox 360em Agosto de 2007. a versão para PlayStation 3, criada pela Irrational, 2K Marin, 2K Australia e Digital Extremes, foi lançada em Outubro de 2008 e a versão para Mac OS X, produzida pela Feral Interactive, em Outubro de 2009. Uma versão portátil também foi produzida pela IG Fun. O conceito para o jogo foi criado por Ken Levine, diretor criativo da Irrational, baseado em ideias do Objectivismo (como descrito por Ayn Rand) enquanto incorpora influências de outros autores como George Orwell. O jogo é considerado um sucessor espiritual da série System Shock, onde muitos da equipe da Irrational, incluindo Levine, já tinham trabalhado. A história de BioShock decorre em 1960, no qual o jogador controla Jack, depois do seu avião cair no oceano, junto a um terminal batisférico que leva à cidade subaquática de Rapture. Construída pelo magnata Andrew Ryan, a cidade tinha como objectivo inicial ser uma utopia isolada, mas a descoberta do ADAM, um plasmídeo que dá poderes sobre-humanos, fez com que a cidade entrasse em declínio turbulento. Jack tenta encontrar uma maneira de escapar, lutando contra enormes quantidades de inimigos obcecados por ADAM, como os mortíferos Big Daddies, enquanto também se encontra com alguns humanos sãos e através deles acaba eventualmente por aprender mais sobre o passado de Rapture. O jogador, como Jack, consegue derrotar os inimigos com o uso de várias armas, utilizando plasmídeos que lhe dá poderes únicos ou fazendo com que as próprias defesas da cidade se virem contra os seus habitantes. O jogo inclui elementos de survival horror (horror de sobrevivência) e de jogos em role-playing (RPG), dando ao jogador diferentes opções ao confrontar-se com inimigos como disfarçar-se, bem como escolhas morais entre matar ou salvar personagens.",
+		"img": "bioshock.jpg",
+		"classificacao": "4",
+		"genero":"FPS",
+		"ano":"2007",
+		"plataforma":"PlayStation 4, Xbox 360, PlayStation 3, Xbox One, Microsoft Windows, iOS, Mac OS Classic.",
+		"players":"1 +",
+		"desenvolvedora":"2K Games"
+	},
+
+		{
+		"id":30,
+		"titulo": "League of Legends",
+		"sinopse": "Os RPGs vem crescendo incansavelmente nos últimos anos, graças à sua diversidade, intuitividade e versatilidade. Notavelmente, a comunidade que mais cresce é a de League of legends (Que já se tornou o jogo de PC mais jogado do mundo), tanto por possuir tradução em muitas línguas quanto pela dedicação à empresa com o Jogador, a Riot. A comunidade influi muito no curso do jogo, já que os criadores sempre estão dispostos À ouvir novas idéias. Com a ajuda desses e de muitos outros elementos internos e externos, League of Legends é uma das grandes experiências atuais quando se diz à jogos onlines. League of legends é uma experiência muito boa que todos os jogadores podem e devem passar. A liberdade que temos de montarmos e modificarmos nossa estratégia ao longo do jogo é excepcional. Como qualquer outro jogo, conta com falhas, em sua maior parte provocada pelos jogadores. Não dá para relevarmos essas falhas, já que elas pioram cada vez mais o jogo. Falta a Riot somente criar uma forma melhor de punir os jogadores para, assim, aumentar cada vez mais a comunidade.",
+		"img": "league.jpg",
+		"classificacao": "5",
+		"genero":"MOBA",
+		"ano":"2009",
+		"plataforma":"Microsoft Windows",
+		"players":"Multiplayer",
+		"desenvolvedora":"Riot Games"
+	},
+
+			{
+		"id":31,
+		"titulo": "Dota 2",
+		"ssinopse": "Dota 2 é um jogo eletrônico do genero Action Real-Time Strategy (abreviado como ARTS) ou também considerado do genero Multiplayer Online Battle Arena (abreviado como MOBA), foi desenvolvido pela Valve Corporationcomo sequência do Defense of the Ancients (DotA), uma modificação (mod) em um mapa desenvolvido para Warcraft III: The Frozen Throne. Embora seu antecessor tenha sido desenvolvido de forma amadora, Dota 2 foi acolhido pela Valve — em estreita parceria com o produtor original, IceFrog — para ser desenvolvido e lançado no mercado mundial de forma profissional. Oficialmente foi lançado no dia 9 de Julho de 2013 a versão completa do jogo em Free to Play disponível somente na plataforma Steam.",
+		"img": "dota.jpg",
+		"classificacao": "4",
+		"genero":"MOBA",
+		"ano":"2013",
+		"plataforma":"Microsoft Windows, Linux, Mac OS Classic",
+		"players":"Multiplayer",
+		"desenvolvedora":"Valve"
+	},
+
+			{
+		"id":32,
+		"titulo": "Hereos of the Storm",
+		"ssinopse": "Heroes of the Storm é um jogo eletrônico de multiplayer online desenvolvido pela Blizzard Entertainment para as plataformas Microsoft Windows e OS X. A base do jogo é uma combinação dos heróis de outros jogos da Blizzard, como os da série Warcraft, Diablo e StarCraft. O jogo é free-to-play (gratuito) e distribuído online apoiado por microtransações, que podem ser usadas para comprar heróis ou alterações visuais para os heróis no jogo. A Blizzard não chama este jogo de multiplayer online battle arena ou estratégia em tempo real, pois eles acreditam que Heroes é diferente dos outros jogos destes generos, eles se referem ao jogo como Hero Brawler.",
+		"img": "hereos.jpg",
+		"classificacao": "4",
+		"genero":"MOBA",
+		"ano":"2015",
+		"plataforma":"Microsoft Windows, Mac OS Classic",
+		"players":"Multiplayer",
+		"desenvolvedora":"Blizzard"
+	},
+
+			{
+		"id":33,
+		"titulo": "Smite",
+		"sinopse": "Smite é um jogo eletrônico do genero multiplayer online battle arena (MOBA) em terceira pessoa desenvolvido e publicado por Hi-Rez Studios para Microsoft Windows, PlayStation 4 e Xbox One. Em Smite, os jogadores controlam um deus, deusa ou outra figura mitológica e participam em combate baseado em equipe, usando habilidades e táticas contra outros deuses controlados por jogadores ou por bots. O jogo tem vários modos JxJ, muitos personagens jogáveis, e tem cenário competitivo bem sucedido com vários torneios, incluindo o campeonato mundial de Smite que tem um grande prêmio de US $ 1 milhão de dólares e está hospedado em Atlanta, Georgia, Estados Unidos.",
+		"img": "smite.jpg",
+		"classificacao": "3",
+		"genero":"MOBA",
+		"ano":"2014",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows, Mac OS Classic",
+		"players":"Multiplayer",
+		"desenvolvedora":"Hi-Rez Studio"
+	},
+
+			{
+		"id":34,
+		"titulo": "VainGlory",
+		"sinopse": "Vainglory é um jogo eletrônico do genero multiplayer online battle arena| desenvolvido e publicado pela Super Evil Megacorp para dispositivos iOS e Android. O jogo é uma versão simplificada do seu genero onde duas equipes adversárias de três jogadores lutam para destruir a base inimiga, controlando os caminhos entre as bases, que é alinhado por torres e protegido por criaturas inimigas controladas por IA. Fora do caminho, os jogadores lutam por pontos de controle que fornecem recursos extras. O jogo foi lançado para iOS em novembro de 2014, e após um ano e meio, a versão para Android foi lançada em julho de 2015.",
+		"img": "vain.jpg",
+		"classificacao": "2",
+		"genero":"MOBA",
+		"ano":"2014",
+		"plataforma":"Android, IOS",
+		"players":"Multiplayer",
+		"desenvolvedora":"Super Evil Megacorp"
+	},
+
+			{
+		"id":35,
+		"titulo": "Arena Of Valor",
+		"sinopse": "O game de estratégia mobile Arena of Valor (conhecido no Oriente como Honor of Kings) é um massive battle online arena (MOBA) de sucesso na China, onde possui cerca de 200 milhões de jogadores e vem sendo acusado de ter características capazes de causar certa dependência.",
+		"img": "arena.jpg",
+		"classificacao": "3",
+		"genero":"MOBA",
+		"ano":"2015",
+		"plataforma":"Nintendo Switch, iOS, Android",
+		"players":"Multiplayer",
+		"desenvolvedora":"Timi Studio Group"
+	},
+
+			{
+		"id":36,
+		"titulo": "Battleborn",
+		"sinopse": "Battleborn é um jogo de tiro em primeira pessoa online desenvolvido pela Gearbox Software e publicado pela 2K Games para Microsoft Windows, PlayStation 4 e Xbox One. O jogo foi lançado mundialmente em 3 de maio de 2016. Battleborn é um herói atirador com elementos de arenas de batalha multiplayer online (MOBA). Os jogadores selecionam um dos vários personagens pré-concebidos com diferentes ataques e habilidades, e participam de um único jogador, de partidas cooperativas ou de partidas competitivas com outros jogadores. Durante as partidas, os jogadores ganham experiência para avançar seu personagem ao longo da Árvore da Hélice, selecionando uma de duas novas habilidades ou buffs com cada etapa de avanço que permite ao jogador criar um loadout personalizado para aquele personagem durante a duração da partida. Além disso, à medida que o jogador completa as partidas, ele ganha equipamento aleatório (gerado similarmente ao recurso de arma aleatória da série Borderlands) que também pode ser equipado como parte do loadout para fornecer mais buffs e habilidades, ou comprado através de microtransações.",
+		"img": "battleborn.jpg",
+		"classificacao": "4",
+		"genero":"MOBA",
+		"ano":"2016",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows",
+		"players":"Multiplayer",
+		"desenvolvedora":"Gearbox Software"
+	},
+
+			{
+		"id":37,
+		"titulo": "Paladins",
+		"sinopse": "Paladins é um jogo eletrônico de tiro em primeira pessoa ou terceira pessoa com multijogador, baseado em equipes e gratuito para jogar, lançado como closed beta em 17 de novembro de 2015[1], e tendo seu beta aberto somente em 16 de setembro de 2016, dentro de uma semana do seu lançamento no Steam, o jogo havia atraído 750.000 (setecentos e cinquenta mil) downloads, de acordo com o International Business Times, foi um dos dez jogos mais populares pelos usuários no serviço.[2] Cada jogador controla um campeão com diferentes habilidades, e eles são divididos em duas equipes que competem para alcançar objetivos. Em resposta a acusações de que o jogo seja um clone de Overwatch, o COO da Hi-Rez Studios, Todd Harris, disse que Apesar de Overwatch ser um belo jogo, não serviu de inspiração para Paladins. O desenvolvimento de um jogo é um processo interativo com ideias que aparecem de projetos passados. Para o genero de shooters com heróis, o jogo que merece mais crédito é Team Fortress 2. Lançamos um jogo de tiro baseado nas classes de Team Fortress 2 chamado Global Agenda, em 2010. Paladins foi concebido como uma versão de fantasia de Global Agenda, e, das aproximadamente 85 habilidades de combate presentes atualmente em Paladins, a grande maioria veio desse jogo que fizemos há 10 anos.",
+		"img": "paladins.jpg",
+		"classificacao": "4",
+		"genero":"MOBA",
+		"ano":"2016",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows, Mac OS Classic",
+		"players":"Multiplayer",
+		"desenvolvedora":"Hi-Rez Studio"
+	},
+
+			{
+		"id":38,
+		"titulo": "Infinite Crisis",
+		"sinopse": "Infinite Crisis foi um videojogo multiplayer online de arena de batalha (MOBA) baseado no universo fictício da DC Comics, desenvolvido pela Turbine e publicado pela Warner Bros. Interactive Entertainment, vagamente baseado na série de histórias em quadrinhos do mesmo nome. O jogo contava com dois esquadrões de heróis e vilões da DC enquanto eles competiam em combates em vários campos de batalha destrutivos, apresentando eventos catastróficos que mudavam o jogo. Era um jogo free-to-play que era suportado por micro-transações. Em Crise Infinita, os jogadores assumiram o papel de um personagem chamado campeao, cada personagem tendo um conjunto de habilidades únicas, lutando com uma equipe contra outros jogadores ou campeões controlados por computador. No modo de jogo mais popular, os jogadores controlavam seus campeões, destruindo torres inimigas e completando os objetivos estabelecidos. Para vencer, o objetivo de cada equipe era destruir o núcleo de poder da equipe adversária, um prédio dentro da base inimiga. Este objetivo foi alcançado destruindo drones e torres inimigas.",
+		"img": "Infinite.jpg",
+		"classificacao": "3",
+		"genero":"MOBA",
+		"ano":"2015",
+		"plataforma":"Microsoft Windows",
+		"players":"Multiplayer",
+		"desenvolvedora":"Timi Studio Group"
+	},
+
+			{
+		"id":39,
+		"titulo": "Paragon",
+		"sinopse": "Paragon era um videogame online de arena de batalha multiplayer em terceira pessoa. Os mapas apresentados no jogo são simétricos e as bases estão localizadas nas duas extremidades opostas de um mapa. Os jogadores são encarregados de derrotar o time inimigo destruindo o núcleo em sua base. Eles podem alcançar as bases de seus oponentes através das três pistas mostradas em cada mapa. Cada pista é protegida por torres defensivas que protegem as bases, atacando todos os inimigos que estiverem dentro de seu alcance automaticamente. As pistas consistem em duas torres e um inibidor. Destruir tudo isso permite que uma equipe crie lacaios mais poderosos nessa faixa e ataque diretamente o núcleo inimigo. Entre as pistas estão as selvas, dentro das quais os jogadores podem encontrar recursos adicionais para suas equipes. As selvas são separadas das pistas pelas paredes de neblina pelas quais os jogadores não podem ver outros jogadores.",
+		"img": "paragon.jpg",
+		"classificacao": "2",
+		"genero":"MOBA",
+		"ano":"2016",
+		"plataforma":"PlayStation 4, Microsoft Windows",
+		"players":"Multiplayer",
+		"desenvolvedora":"Epic Games"
+	},
+
+				{
+		"id":40,
+		"titulo": "The Sims 4",
+		"sinopse": "The sims 4 é o novo capítulo da famosa franquia para PCs. O jogo promete novas ferramentas de personalização e um sistema de emoções que vai afetar a vida e as ações dos Sims. Tudo isso sem perder as ideias originais e as características já bem conhecidas da série. The Sims 4 roda de forma mais suave que o seu antecessor. Ele exige pouco para funcionar nas configurações mínimas e suas telas de carregamento estão relativamente mais rápidas. A falta de determinados conteúdos e algumas mudanças provavelmente são resultado desse melhor desempenho durante partes mais pesadas do game – como o carregamento da vizinhança de de novos personagens. The Sims 4 é uma versão melhorada de The Sims 3, acrescentando novas opções de personalização e emoções que realmente influenciam a jogabilidade. Ele traz inovações consideráveis como o seu editor, a nova forma de controlar a vizinhança e o novo sistema de desejos e emoções. O equilíbrio desses detalhes com uma melhor performance do jogo, novas opções de interação e compartilhamento fazem de The Sims 4 mais um excelente simulador da série.",
+		"img": "sims4.jpg",
+		"classificacao": "4",
+		"genero":"Simulação",
+		"ano":"2014",
+		"plataforma":"PS4, Xbox One, Pc.",
+		"players":"1 player",
+		"desenvolvedora":"Eletronic Arts"
+	},
+
+					{
+		"id":41,
+		"titulo": "Sim City",
+		"sinopse": "SimCity é um jogo de computador de simulação e construção de cidade desenvolvido pela Maxis, subsidiária da EA, lançado em 5 de março de 2013 (versão para OS X prevista para 27 de agosto de 2013), no qual o jogador constrói e administra uma cidade. Faz parte da série SimCity, sendo o sexto jogo lançado,. O jogo é considerado como um recomeço da franquia. SimCity utiliza um novo motor gráfico denominado Glassbox, permitindo uma simulação mais detalhada do que em jogos anteriores. Ao longo de seu desenvolvimento, SimCity recebeu elogios da crítica por seu novo motor e jogabilidade, no entanto algumas publicações criticaram a autenticação permanente com a internet, com a qual é armazenado jogos salvos e permite aos jogadores compartilhar recursos.",
+		"img": "simcity.jpg",
+		"classificacao": "5",
+		"genero":"Simulação",
+		"ano":"2013",
+		"plataforma":"Microsoft Windows, Mac OS Classic",
+		"players":"1 player",
+		"desenvolvedora":"Eletronic Arts"
+	},
+
+					{
+		"id":42,
+		"titulo": "Roller Coaster 2",
+		"sinopse": "O jogador deve gerenciar os seus parques cumprindo os mais diversos objetivos tais como atrair um certo número de visitantes, satisfazê-los ou tornar o parque valioso. Estes objetivos cumpridos abrem novos cenários e novas atrações que no jogo vão desde montanhas-russas, lojas de souvenires a brinquedos tranquilos, emocionantes e aquáticos, fora brinquedos de locomoção/transporte pelo parque e praças de alimentação. O jogador deve-se preocupar também com a contratação de mecânicos, garis, seguranças e bonecos animadores, empréstimos, desenvolvimento e aperfeiçoamento de novas atrações, decoração, jardinagem, a construção dos traçados das montanhas-russas, e claro, a planta/mapa do parque. O jogo traz também a possibilidade de construir parques temáticos com decorações de cartas de baralho, alienígenas, antigo Egito entre outros.",
+		"img": "roller.jpg",
+		"classificacao": "4",
+		"genero":"Simulação",
+		"ano":"1999",
+		"plataforma":"Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Chris Sawyer"
+	},
+
+					{
+		"id":43,
+		"titulo": "Habbo",
+		"sinopse": "O Habbo Hotel, ou Habbo nome pelo qual é mais conhecido, é uma comunidade virtual na forma de hotel voltado para o público jovem com idade acima de 13 anos. Atualmente o Habbo está distribuído em 9 diferentes línguas, com 300 milhões de personagens registrados (sendo mais de 80 milhões somente na versão em português). Em dezembro de 2010 o Habbo BR/PT (assim como é conhecido no Brasil e em Portugal) atingiu a marca de mais de 50.000 usuários online. Em 4 de novembro de 2009, o Antigo Habbo foi desativado, sendo substituído completamente pelo Novo Habbo. Uma coleção de mobis que jamais seria vendida novamente foi lançada especialmente para a extinção.",
+		"img": "habbo.jpg",
+		"classificacao": "4",
+		"genero":"Simulação",
+		"ano":"2000",
+		"plataforma":"Android, Navegador web, Microsoft Windows, iOS",
+		"players":"1 player",
+		"desenvolvedora":"Sulake"
+	},
+
+					{
+		"id":44,
+		"titulo": "Planet Coaster",
+		"sinopse": "Planet Coaster é um jogo de simulação sandbox de construção e gerenciamento. Similar ao seu antecessor, o jogo permite os jogadores construírem diferentes tipos de parques de diversões e montanhas russas. Existem três modos que podem escolher: Career, Sandbox, e Challenge. Career permite assumir o controlo de vários parques, que terão de gerir através de diferentes contextos. Em alguns parques terão de completar montanhas-russas, noutros terão de lidar com problemas de sujidade, e assim por diante. Depois de completarem os objetivos de um parque, desbloqueiam novos parques para gerarem em Career.",
+		"img": "planet.jpg",
+		"classificacao": "3",
+		"genero":"Simulação",
+		"ano":"2016",
+		"plataforma":"Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Frontier Developments"
+	},
+
+					{
+		"id":45,
+		"titulo": "Bus Driver ",
+		"sinopse": "Bus Driver é um jogo baseado nas leis e regras de estradas da vida real e é extremamente educacional. O objetivo do jogo é levar pessoas de um local a outro, parando nos pontos, terminais e afins. Além disso, existe uma barra que diz o nível de conforto e humor dos passageiros. Existem vários tipos de ônibus para se dirigir, desde um simples escolar até panorâmicos. As viagens duram até 20 minutos, e passam por locais de pura neve, com tempestades e também no meio da cidade. O tráfego, dependendo do horário, é intenso, dando um ar ainda mais realista ao jogo.",
+		"img": "bus.jpg",
+		"classificacao": "2",
+		"genero":"Simulação",
+		"ano":"2007",
+		"plataforma":"Microsoft Windows, iOS, Mac OS Classic",
+		"players":"1 player",
+		"desenvolvedora":"Vehicle Simulator Game"
+	},
+
+					{
+		"id":46,
+		"titulo": "Cities Skylines",
+		"sinopse": " Cities: Skylines é um jogo de construção de cidade singleplayer produzido pela Colossal Order e publicado pela Paradox Interactive, lançado em 10 de março de 2015 Exclusivamente para PC (Microsoft Windows, OS X, Linux). Os jogadores se engajam no planejamento urbano, controlando o zoneamento, a construção de estradas, a tributação, os serviços públicos e o transporte público de uma área. Os jogadores gerenciam o orçamento da cidade, população, saúde, felicidade, emprego, poluição (terra, água e ruído), fluxo de tráfego e outros fatores. O jogador também pode jogar em um modo sandbox com dois mods que vêm pré-instalados no jogo, prontos para ativar. Estes mods desbloquear todos os marcos e fornecer dinheiro ilimitado para o jogador.",
+		"img": "cities.jpg;",
+		"classificacao": "4",
+		"genero":"Simulação",
+		"ano":"2015",
+		"plataforma":"Xbox One, PlayStation 4, Microsoft Windows, macOS, Linux, Mac OS Classic",
+		"players":"1 player",
+		"desenvolvedora":"Colossal Order"
+	},
+
+					{
+		"id":47,
+		"titulo": "Euro Truck 2",
+		"sinopse": "Euro Truck Simulator 2 é um jogo de simulação de caminhões desenvolvido e publicado pela SCS Software para Microsoft Windows, Linux e recentemente para OSX (Mac). e foi inicialmente lançado como um jogo de desenvolvimento aberto em 19 de outubro de 2012. O jogo é uma sequência direta ao jogo Euro Truck Simulator (2008) e é o segundo jogo da série Euro Truck Simulator. O jogador pode dirigir vários caminhões através de um mapa que representa a Europa e suas estradas, pegando cargas de vários locais e realizando entregas. Conforme o jogo avança, o jogador pode comprar mais caminhões, garagens e contratar motoristas para trabalhar na empresa criada pelo jogador.",
+		"img": "euro.jpg",
+		"classificacao": "4",
+		"genero":"Simulação",
+		"ano":"2012",
+		"plataforma":"Microsoft Windows, Linux, macOS, Mac OS Classic",
+		"players":"1 player",
+		"desenvolvedora":"SCS Software"
+	},
+
+					{
+		"id":48,
+		"titulo": "The sims 3",
+		"sinopse": "The Sims 3 (em Portugal Os Sims 3) é o terceiro título da franquia The Sims, lançado nos Estados Unidos em 2 de junho de 2009, 5 de junho na Europa (em geral) e no Brasil. O jogo The Sims 3 vendeu 1 milhão de cópias na sua primeira semana nas lojas. The Sims 3 foi produzido pela The Sims Studio no Windows e pela Visceral Games no Mac OS X. O lançamento das versões para PC, Mac, iPhone, iPod touch e celulares convencionais foi feita simultaneamente no início de junho de 2009 porém, a última versão estável foi lançada em janeiro de 2010. A versões para N-Gage e smartphones com Android e Windows Mobile chegaram pouco tempo depois. A versão para Blackberry, porém, já estava disponível na Blackberry App Store desde abril. A versão para o celular Palm Pre só chegou no final do mesmo ano, mas teve a vantagem de ser em 3D, assim como as versões para iPhone, iPod touch e Android (a versão para Blackberry, Windows Mobile, N-Gage e celulares convencionais são em 2D). A versão para Wii, Nintendo DS, Xbox 360 e PlayStation 3 chegou em Outubro de 2010.",
+		"img": "sims3.jpg",
+		"classificacao": "4",
+		"genero":"Simulação",
+		"ano":"2009",
+		"plataforma":"Xbox 360, PlayStation 3, Mac OS Classic, Wii, Android",
+		"players":"1 player",
+		"desenvolvedora":"Eletronic Arts"
+	},
+
+					{
+		"id":49,
+		"titulo": "The sims 2",
+		"sinopse": "The Sims 2 (Os Sims 2 em português europeu) é um jogo de computador e de videogame da Eletronic Arts e Maxis. É a sequência do jogo popular The Sims. É a continuação muito vasta em relação à versão do anterior e com várias atualizações. É provável em 3D e, diferentemente das versões anteriores, agora os personagens ficam velhos, têm personalidade própria e traços genéticos. O jogo foi lançado oficialmente em 14 de setembro a 2004 e vendeu 1,5 milhão de cópias em apenas 6 dias, mantendo até hoje o recorde de mais vendas da franquia e o maior jogo para computador da historia.",
+		"img": "sims2.jpg",
+		"classificacao": "5",
+		"genero":"Simulação",
+		"ano":"2004",
+		"plataforma":"PlayStation 2, PlayStation Portable, Nintendo DS",
+		"players":"1 player",
+		"desenvolvedora":"Eletronic Arts"
+	},
+
+
+						{
+		"id":61,
+		"titulo": "Resident Evil 7",
+		"sinopse": "Se há um jogo recente que sofreu com o ceticismo geral de sua base de fãs e da comunidade como um todo, foi Resident Evil 7. Revelado durante a E3 2016 com a audaciosa proposta de trazer a perspectiva em primeira pessoa à série principal da clássica franquia, o game foi quase instantaneamente submergido em uma aura de dúvida e hesitação: Estaria um dos maiores nomes do survival horror aderindo à recente tendência de jogos de terror em primeira pessoa simplesmente para embarcar no hype do genero, ou a Capcom realmente tinha um plano para embasar essa ousada mudança? As comparações são inevitáveis, mas afirmo com toda a convicção que Resident Evil 7 é um jogo completamente diferente de Outlast ou P.T. As influências destes são claras (adicionaria também F.E.A.R à lista), mas a inspiração nos games originais da franquia e o respeito ao aproveitar muitos elementos memoráveis do extenso acervo da série são muito mais determinantes para a formação de Resident Evil 7, e fazem deste novo título o melhor lançamento a carregar a marca na última década. Aos fãs, preparem-se: este é o início de uma nova era. A Capcom fez um trabalho primoroso em pegar os elementos que marcaram e definiram Resident Evil no passado e atualizá-los para uma nova geração. O resultado final é um jogo excelente, capaz de deixar você tenso, oferecer momentos de alívio e de realização por lidar com situações complicadas e escapar com vida e recursos de sobra. Acima de tudo, a sensação que mais me acompanhou durante minhas oito horas de jogatina foi um calor no coração de ver que uma de minhas franquias preferidas conseguiu trazer algo novo com tantas referências e influências nostálgicas aplicadas de maneira exemplar. Resident Evil 7 representa para mim o início de uma nova era, bem como Resident Evil 4 fez, e me deixa muito esperançoso e ansioso pelo que vem por aí. Sou um orgulhoso membro desta família adorável que são os Bakers.",
+		"img": "re7.jpg",
+		"classificacao": "2",
+		"genero":"Terror",
+		"ano":"2017",
+		"plataforma":"PS4, Xbox One e Pc",
+		"players":"1 player",
+		"desenvolvedora":"Capcom"
+	},
+
+							{
+		"id":62,
+		"titulo": "Dead Space 2",
+		"sinopse": "Dead Space 2 é um jogo de tiro em terceira pessoa de estilo survival horror e ficção científica lançado em 2011 para PlayStation 3, Xbox 360 e para PC, desenvolvido pela Visceral Games e distribuído pela Eletronic Arts. Foi lançado no dia 25 de Janeiro de 2011 na região NTSC, 27 de Janeiro de 2011 na região PAL e no dia 28 no Reino Unido. Foi lançada em de fevereiro de 2013, e teve uma sequência intitulada Dead Space 3.",
+		"img": "deadspace.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2011",
+		"plataforma":"PlayStation 3, Xbox 360, Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Visceral Games"
+	},
+
+								{
+		"id":63,
+		"titulo": "Until Dawn",
+		"sinopse": "Until Dawn é um game de horror exclusivo para PS4, que foi originalmente planejado para PS3. O jogo tem enredo de filme de terror, em que um grupo de adolescentes fica preso em uma casa na montanha. O título tem sistema de escolhas, que vai desde grandes decisões até pequenas ações, como ir para direita ou esquerda. A ideia é que cada atitude mude o passo seguinte, como um Efeito Borboleta. Os amigos vão para a cabana após o desaparecimento das irmãs Beth e Hannah. Para ter a história totalmente revelada, Until Dawn deverá ser jogado diversas vezes e com decisões alternadas. É possível fazer o melhor final. Para isso, saiba como salvar todosos personagens: Ashley, Emily, Chris, Josh, Matt, Jessica, Mike e Sam. Enquanto toma as decisões, o jogador é analisado pelo psiquiatra Dr. Alan Hill dentro do game. A produção, que foi lançada para PS4 em agosto de 2015, foi filmada e digitalizada com atores de verdade, como a atriz Hayden Panettiere. O jogo ganhou um gameplay que mostra as escolhas necessárias para jogar o terror adolescente.",
+		"img": "ud.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2015",
+		"plataforma":"PS4",
+		"players":"1 player",
+		"desenvolvedora":"Supermassive Games"
+	},
+
+								{
+		"id":64,
+		"titulo": "Outlast 2",
+		"sinopse": "Outlast 2 (estilizado como OU†LASTII) é um jogo eletrônico de survival horror em primeira pessoa desenvolvido e publicado pela Red Barrels para Microsoft Windows, PlayStation 4 e Xbox One em 25 de abril de 2017. É a sequência do jogo eletrônico de 2013 Outlast e apresenta um jornalista chamado Blake Langermann, junto com sua esposa Lynn, percorrendo o deserto do Arizona para explorar o assassinato de uma mulher grávida, apenas conhecida como Jane Doe.[2] Blake e Lynn se separam em um acidente de helicóptero, e Blake tem que encontrar sua esposa enquanto viaja através de uma aldeia habitada por uma seita chamada Testamento do Novo Ezequiel (Testament of the New Ezekiel) que acredita que o fim dos dias está chegando.",
+		"img": "out.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2017",
+		"plataforma":"PlayStation 4, Xbox One, Nintendo Switch, Microsoft Windows, Mac OS Classic",
+		"players":"1 player",
+		"desenvolvedora":"Red Barrels Studio"
+	},
+
+								{
+		"id":65,
+		"titulo": "Agony",
+		"sinopse": "Agony é o tipo de game que vai te tirar o sono. Nele você será uma alma atormentada que, sem explicações, está vagando no inferno. A atmosfera que o game cria é perfeita para te deixar tenso, desconfortável e (claro) morrendo de medo. Agony é o título mais absurdo dentre os jogos de terror de 2017 e, por que não, da história!",
+		"img": "agony.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2018",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Madmind Studio"
+	},
+
+								{
+		"id":66,
+		"titulo": "Silent Hill 4",
+		"sinopse": "Silent Hill 4: The Room é a quarta parte da série de survival horror Silent Hill, publicado pela Konami e desenvolvido pela Team Silent, uma equipe dentro da Konami Computer Entertainment Tokyo. O jogo foi lançado, assim como sua trilha-sonora, no Japão em junho de 2004 e na América do Norte e Europa em setembro do mesmo ano, para os consoles PlayStation 2, Xbox e Microsoft Windows. Diferente dos lançamentos anteriores, que aconteciam primariamente na cidade perturbada de Silent Hill, este jogo se passa na cidade fictícia de Ashfield, e é focado na tentativa do personagem Henry Townshend de fugir de seu trancafiado apartamento. Ele explora uma série de mundos sobrenaturais e se encontra em conflito com um serial killer não morto. Originalmente pretendido como um derivado da série principal, Silent Hill 4 possui um estilo de jogabilidade alterado com navegação em primeira pessoa e elementos do enredo tirados de jogos anteriores. A partir de seu lançamento o jogo recebeu uma reação em sua maior parte de críticas positivas apesar de opiniões mistas quanto ao afastamento do estilo do Silent Hill original.",
+		"img": "silent.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2004",
+		"plataforma":"PlayStation 2, PlayStation 3, Xbox, Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Konami"
+	},
+
+								{
+		"id":67,
+		"titulo": "Dying Light",
+		"sinopse": "Dying Light é um jogo de ação e mundo aberto na primeira pessoa do genero survival horror onde se retrata um apocalipse zumbi. O jogo foi produzido pela Techland e publicado pela Warner Bros. Interactive Entertainment, seu anúncio aconteceu em maio de 2013, e eventualmente foi lançado em janeiro de 2015 para Playstation 4, Xbox One, Microsoft Windows e distribuições Linux (SteamOS). O jogo estava planejado para ser lançado em Playstation 3 e Xbox 360, porém tais conversões foram canceladas devido as limitações de hardware.",
+		"img": "dl.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2015",
+		"plataforma":"PlayStation 4, Xbox One, Microsoft Windows, Linux, Mac OS Classic",
+		"players":"1 +",
+		"desenvolvedora":"Techland"
+	},
+
+								{
+		"id":68,
+		"titulo": "F.E.A.R",
+		"sinopse": "F.E.A.R. é um jogo eletrônico de tiro em primeira pessoa produzido pela Monolith e lançado em 18 de outubro de 2005 para PC, em 31 de outubro de 2006 para Xbox 360 e em 24 de abril de 2007 para PlayStation 3. O enredo tem como base vários acontecimentos sobrenaturais. A sigla F.E.A.R. significa First Encounter Assault Recon. O jogo é distribuído pela Vivendi Games.",
+		"img": "fear.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2005",
+		"plataforma":"PlayStation 3, Xbox 360, Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Monolith Productions"
+	},
+
+								{
+		"id":69,
+		"titulo": "The Evil Within",
+		"sinopse": "A história do jogo se passa na cidade fictícia de Krimson City, nos Estados Unidos. Após um chamado de emergência de polícia no hospício Beacon Mental Hospital, o detetive veterano Sebastian Castellanos, seu parceiro Joseph Oda e sua equipe vão até o local para averiguar e ver o que estava acontecendo. Ao chegarem lá, se deparam com um local pós massacre: lá eles encontram praticamente todos os pacientes, enfermeiros e médicos mortos. Ao checarem as câmeras de segurança para análise e em busca de saber o que realmente aconteceu naquele lugar, eles descobrem que algo fora do comum e da realidade convencional tomou posse do local e causou o massacre. Antes mesmo de sair do local, Sebastian é atacado por uma força desconhecida, ao cair em uma emboscada e ficar inconsciente. Ele acorda em uma realidade totalmente distorcida e perversa, pendurado de ponta cabeça, em uma espécie de abatedouro humano. Ao recobrar a consciência, Sebastian tentar sair do local, mas passa a ser perseguido por um sádico com uma serra-elétrica. Agora caberá a Sebastian buscar respostas e tentar sobreviver.",
+		"img": "tew.jpg",
+		"classificacao": "3",
+		"genero":"Terror",
+		"ano":"2014",
+		"plataforma":"PlayStation 4, Xbox One, Xbox 360, PlayStation 3, Microsoft Windows",
+		"players":"1 player",
+		"desenvolvedora":"Tango Gameworks"
+	},
+
+								{
+		"id":70,
+		"titulo": "Alien: Isolation",
+		"sinopse": "Alien: Isolation é um jogo de ação furtiva de 2014 em primeira pessoa com genero de survival horror. Ele foi desenvolvido pela The Creative Assembly e lançado pela Sega em 7 de outubro de 2014 para Microsoft Windows, Linux, PlayStation 3, PlayStation 4, Xbox 360 e Xbox One. Parte da série Alien, o jogo se passa em 2137, 15 anos após os acontecimentos de Alien e 42 anos antes de Aliens. O jogo segue Amanda Ripley, que investiga o desaparecimento de sua mãe. Amanda é transferida para a estação espacial de Sevastopol para encontrar a caixa-preta da Nostromo apenas para descobrir que um alien tem aterrorizado a estação e matou a grande maioria da tripulação.",
+		"img": "alien.jpg",
+		"classificacao": "2",
+		"genero":"Terror",
+		"ano":"2014",
+		"plataforma":"PS4, Xbox One, Xbox 360, PS3, Microsoft Windows, Linux, Mac OS Classic",
+		"players":"1 player",
+		"desenvolvedora":"The Creative Assembly"
+	}
+
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "nome": "Laryssa",
+        "nick": "Larynha",
+        "email": "laryssa.jungton@gmail.com",
+        "senha": "ahnegao11",
+        "cod_usu": 0
+    },
+    {
+        "nome": "Amanda Jungton",
+        "nick": "Dinha",
+        "email": "amanda.jungton@gmail.com",
+        "senha": "1234",
+        "cod_usu": 1
+    },
+    {
+        "nome": "Aline",
+        "nick": "Alinenha",
+        "email": "aline2019@gmail.com",
+        "senha": "cafecomleite",
+        "cod_usu": 2
+    },
+    {
+        "nome": "Tuane",
+        "nick": "Tutu",
+        "email": "tuane_oink@gmail.com",
+        "senha": "oink",
+        "cod_usu": 3
+    },
+    {
+        "nome": "Mel",
+        "nick": "Melzinha",
+        "email": "melrulim@hmail",
+        "senha": "oioi",
+        "cod_usu": 4
+    },
+    {
+        "nome": "Lucas",
+        "nick": "Gattinho",
+        "email": "lukinhas@gmail.com",
+        "senha": "belessa",
+        "cod_usu": 5
+    },
+    {
+        "nome": "Victor",
+        "nick": "Vict\u00e3o Top",
+        "email": "victor@gmail.com",
+        "senha": "vetor",
+        "cod_usu": 6
+    },
+    {
+        "nome": "john",
+        "nick": "jhonzin",
+        "email": "a@gamil.com",
+        "senha": "aaa",
+        "cod_usu": 7
+    },
+    {
+        "nome": "Clasra",
+        "nick": "clasrinha",
+        "email": "aaa@aaa",
+        "senha": "aaa",
+        "cod_usu": 9
+    },
+    {
+        "nome": "Leticia",
+        "nick": "Lets",
+        "email": "leticiahelen@gmail.com",
+        "senha": "lets",
+        "cod_usu": 10
+    }
+]
